@@ -1,3 +1,3 @@
-# fantasy-webstore-angular
+# first-project-angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-4ee5rd)
+Project made following the angular very first tutorial 
